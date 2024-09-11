@@ -1,0 +1,48 @@
+.bg-blues {
+    background-color: palevioletred;
+}
+
+.btn-pinks {
+    background-color: palevioletred;
+}
+
+.bg-pinks {
+    background-color: pink;
+}
+
+.btn-color {
+    background-color: rgba(165, 39, 81, 0.607);
+}
+
+.text-color {
+    color: rgba(165, 39, 81, 0.607);
+}
+
+.nav-item .nav-link {
+    color: black;
+}
+
+.nav-item .nav-link:hover{
+    border-bottom: 1px solid white;
+    color: white;
+    transition: 0.5s;
+}
+
+.nav-item .nav-link {
+    border-bottom: 1px solid palevioletred;
+}
+
+.text-justify {
+    text-align: justify;
+}
+
+.w-10 {
+    width: 120px;
+}
+
+.mb-6 {
+    margin-bottom: -20px;
+}
+
+
+
